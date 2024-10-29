@@ -56,7 +56,8 @@ const config: Config = {
       title: 'CUBVEC',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        // src: 'img/logo.svg',
+        src: 'img/cubrid.svg',
       },
       items: [
         {
