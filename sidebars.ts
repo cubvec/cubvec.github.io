@@ -29,12 +29,12 @@ const sidebars: SidebarsConfig = {
 
   cubvecSidebar: [
     'intro',
-    {
-      type: 'category',
-      label: 'nested',
-      items: ["tutorial-basics/create-a-document"
-      ],
-    }
+    // {
+    //   type: 'category',
+    //   label: 'nested',
+    //   items: ["tutorial-basics/create-a-document"
+    //   ],
+    // }
   ],
 };
 
