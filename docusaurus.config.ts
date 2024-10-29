@@ -3,6 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
+  trailingSlash: true,
   title: 'CUBVEC',
   tagline: 'Vector Database for CUBRID',
   favicon: 'img/favicon.ico',
@@ -11,12 +12,13 @@ const config: Config = {
   url: 'https://cubvec.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cubvec', // Usually your GitHub org/user name.
-  projectName: 'cubvec', // Usually your repo name.
+  projectName: 'cubvec.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -76,26 +78,22 @@ const config: Config = {
         {
           title: 'Docs',
           items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
           ],
         },
         {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Home Page',
+              href: 'https://www.cubrid.org/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Jira',
+              href: 'https://jira.cubrid.org/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Reddit',
+              href: 'https://www.reddit.com/r/cubrid/',
             },
           ],
         },
