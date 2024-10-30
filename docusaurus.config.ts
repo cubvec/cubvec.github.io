@@ -6,7 +6,8 @@ const config: Config = {
   trailingSlash: true,
   title: 'CUBVEC',
   tagline: 'Vector Database for CUBRID',
-  favicon: 'img/favicon.ico',
+  // favicon: 'img/favicon.ico',
+  favicon: 'img/cubrid.svg',
 
   // Set the production url of your site here
   url: 'https://cubvec.github.io',
