@@ -79,8 +79,7 @@ const config: Config = {
       links: [
         {
           title: 'Docs',
-          items: [
-          ],
+          items: [],
         },
         {
           title: 'Community',
