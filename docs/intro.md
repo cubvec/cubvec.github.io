@@ -9,7 +9,7 @@ sidebar_position: 1
 
 A spec manual for Cubvec
 
-## [Cubvec Plan](https://vimkim.dev/cubvec-plan)
+## [Cubvec Plan](https://cubvec.github.io/cubvec-plan)
 
 Cubvec's plan and roadmap
 
@@ -17,6 +17,6 @@ Cubvec's plan and roadmap
 - Epics
 - Story Points
 
-## [Cubvec Integration Guide](https://vimkim.dev/cubvec-integration-guide)
+## [Cubvec Survey and Analysis](https://cubvec.github.io/cubvec-integration-guide)
 
-A detailed instructions for integrating Cubvec with CUBRID
+A detailed analysis of Cubvec and its integration with CUBRID
