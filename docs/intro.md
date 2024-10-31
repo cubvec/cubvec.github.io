@@ -38,9 +38,9 @@ sidebar_position: 1
 
 ---
 
-## [Cubvec Notion Draft](https://www.notion.so/DB-91935198919d44518d5f54642979fceb)
+## [Cubvec Notion Draft](https://abalone-coneflower-269.notion.site/DB-91935198919d44518d5f54642979fceb?pvs=4)
 
-[https://www.notion.so/DB-91935198919d44518d5f54642979fceb](https://www.notion.so/DB-91935198919d44518d5f54642979fceb)
+[https://abalone-coneflower-269.notion.site/DB-91935198919d44518d5f54642979fceb?pvs=4](https://abalone-coneflower-269.notion.site/DB-91935198919d44518d5f54642979fceb?pvs=4)
 
 - 협업 수정과 임시 자료 모음을 위한 노션 링크입니다.
 
