@@ -5,22 +5,43 @@ sidebar_position: 1
 
 # Cubvec Documentations
 
-## [Cubvec Tentative Manual](https://cubvec.github.io/cubrid-vec-manual-sphinx)
+## [Cubvec Spec Draft](https://cubvec.github.io/cubvec-spec-ko)
 
-A spec manual for Cubvec
+[https://cubvec.github.io/cubvec-spec-ko](https://cubvec.github.io/cubvec-spec-ko)
+
+- Cubvec을 위한 명세서 초안입니다.
+
+- Cubvec Draft Specification
+
+---
 
 ## [Cubvec Plan](https://cubvec.github.io/cubvec-plan)
 
-Cubvec's plan and roadmap
+[https://cubvec.github.io/cubvec-plan](https://cubvec.github.io/cubvec-plan)
 
-- Milestones
-- Epics
-- Story Points
+- Cubvec을 위한 기획입니다.
+
+- Cubvec's plan and roadmap
+  - Milestones
+  - Epics
+  - Story Points
+
+---
 
 ## [Cubvec Survey and Analysis](https://cubvec.github.io/cubvec-integration-guide)
 
-A detailed analysis of Cubvec and its integration with CUBRID
+[https://cubvec.github.io/cubvec-integration-guide](https://cubvec.github.io/cubvec-integration-guide)
+
+- Cubvec을 위한 코드 분석서 모음입니다.
+
+- A detailed analysis of Cubvec and its integration with CUBRID
+
+---
 
 ## [Cubvec Notion Draft](https://www.notion.so/DB-91935198919d44518d5f54642979fceb)
 
-A tentative notion draft for Cubvec, unreliable yet. All the contents are subject to deletion or modification and unlike the above, they are not guaranteed to be version controlled.
+[https://www.notion.so/DB-91935198919d44518d5f54642979fceb](https://www.notion.so/DB-91935198919d44518d5f54642979fceb)
+
+- 협업 수정과 임시 자료 모음을 위한 노션 링크입니다.
+
+- A tentative notion draft for Cubvec, unreliable yet. All the contents are subject to deletion or modification and unlike the above, they are not guaranteed to be version controlled.
