@@ -20,3 +20,7 @@ Cubvec's plan and roadmap
 ## [Cubvec Survey and Analysis](https://cubvec.github.io/cubvec-integration-guide)
 
 A detailed analysis of Cubvec and its integration with CUBRID
+
+## [Cubvec Notion Draft](https://www.notion.so/DB-91935198919d44518d5f54642979fceb)
+
+A tentative notion draft for Cubvec, unreliable yet. All the contents are subject to deletion or modification and unlike the above, they are not guaranteed to be version controlled.

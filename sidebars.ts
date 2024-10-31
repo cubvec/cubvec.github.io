@@ -28,7 +28,7 @@ const sidebars: SidebarsConfig = {
   ],
    */
 
-  cubvecSidebar: ['intro', 'intro'],
+  cubvecSidebar: ['intro'],
 };
 
 export default sidebars;
